@@ -3588,6 +3588,35 @@
           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10964434/2020/1/31/bd6a28f9-661d-4452-8ec5-e8eb9a0eb32e1580454247339-Roadster-Women-Tops-4361580454246027-4.jpg",
           "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10964434/2020/1/31/c9ba1dbf-246c-402f-97b3-7f0d705e1cd01580454247296-Roadster-Women-Tops-4361580454246027-5.jpg"
         ]
+      },{
+        "id": 3,
+        "quantity": 50,
+        "brand_name": "Libas",
+        "name": "Women Off White & Black Ethnic Motifs Printed Kurta",
+        "price": {
+          "mrp": 1199,
+          "discount": 55,
+          "sp": 539
+        },
+        "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+        "customer_rating": 4.3,
+        "product_details": [
+          "Colour: off white and black",
+          "Ethnic motifs printed",
+          "Round neck",
+          "Three-quarter",
+          "regular sleeves",
+          "Straight shape with regular style",
+          "Calf length with straight hem",
+          "Machine weave regular cotton"
+        ],
+        "images": [
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14023518/2021/8/26/7628eb69-c9c9-4a9f-962e-40b4769e01ff1629965924595-Libas-Women-Off-White--Black-Ethnic-Motifs-Print-Pure-Cotton-1.jpg",
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14023518/2021/8/26/fe9f75fc-4ab8-4de4-8261-58a12506189a1629965924585-Libas-Women-Off-White--Black-Ethnic-Motifs-Print-Pure-Cotton-2.jpg",
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14023518/2021/8/26/58434120-8909-4838-bd34-06dbfa42cd671629978973205-Libas-Women-Off-White--Black-Ethnic-Motifs-Print-Pure-Cotton-3.jpg",
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14023518/2021/8/26/9b6b73bf-685c-4a42-98ff-ea827d24d39c1629965924567-Libas-Women-Off-White--Black-Ethnic-Motifs-Print-Pure-Cotton-4.jpg",
+          "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14023518/2021/8/26/499971af-1d25-4c64-a5ed-36a0f45d8bf31629965924556-Libas-Women-Off-White--Black-Ethnic-Motifs-Print-Pure-Cotton-5.jpg"
+        ]
       }
     ]
   }
