@@ -3459,7 +3459,7 @@
   "users": [
     {
       "id": 1,
-      "name": "Rahul",
+      "firstname": "Rahul",
       "lastname": "singh",
       "password": "123456789",
       "mobile": 1234567980,
@@ -3473,7 +3473,7 @@
     },
     {
       "id": 2,
-      "name": "Raj",
+      "firstname": "Raj",
       "lastname": "Kumar",
       "password": "121234567893",
       "mobile": 1952489281,
@@ -3487,7 +3487,7 @@
     },
     {
       "id": 3,
-      "name": "Kapil",
+      "firstname": "Kapil",
       "lastname": "Sharma",
       "password": "123456789",
       "mobile": 1952489582,
@@ -3500,8 +3500,8 @@
       "state": ""
     },
     {
-      "id": 3,
-      "name": "Kapil",
+      "id": 10,
+      "firstname": "Kapil",
       "lastname": "Sharma",
       "password": "123456789",
       "mobile": 1952489586,
@@ -3515,7 +3515,7 @@
     },
     {
       "id": 4,
-      "name": "Aman",
+      "firstname": "Aman",
       "lastname": "Sharma",
       "password": "123456789",
       "mobile": 1958489587,
@@ -3529,7 +3529,7 @@
     },
     {
       "id": 5,
-      "name": "Pramod",
+      "firstname": "Pramod",
       "lastname": "Kumar",
       "password": "123456789",
       "mobile": 1952189581,
@@ -3543,7 +3543,7 @@
     },
     {
       "id": 6,
-      "name": "Sai",
+      "firstname": "Sai",
       "lastname": "Kiran",
       "password": "123456789",
       "mobile": 1952489549,
@@ -3557,7 +3557,7 @@
     },
     {
       "id": 7,
-      "name": "Umer",
+      "firstname": "Umer",
       "lastname": "Ahmad",
       "password": "123456789",
       "mobile": 1952489483,
@@ -3571,7 +3571,7 @@
     },
     {
       "id": 8,
-      "name": "Madhur",
+      "firstname": "Madhur",
       "lastname": "Nadamwar",
       "password": "123456789",
       "mobile": 7304122701,
@@ -3585,7 +3585,7 @@
     },
     {
       "id": 9,
-      "name": "Aman",
+      "firstname": "Aman",
       "lastname": "Kumar",
       "password": "123456789",
       "mobile": 9876543211,
@@ -3598,78 +3598,7 @@
       "state": ""
     }
   ],
-  "cart": [
-    {
-      "id": 1,
-      "quantity": 50,
-      "brand_name": "Tommy Hilfiger",
-
-      "name": "Men Burgundy Brand Logo Embossed Pure Cotton T-shirt",
-
-      "price": {
-        "mrp": 1999,
-
-        "discount": 50,
-
-        "sp": 1199
-      },
-
-      "sizes": ["S", "M", "L", "XL", "XXL"],
-
-      "customer_rating": 4.6,
-
-      "product_details": [
-        "Burgundy Tshirt for men",
-
-        "Brand logo embossed",
-
-        "Regular length",
-
-        "Round neck",
-
-        "Short, regular sleeves",
-
-        "Knitted cotton fabric"
-      ],
-
-      "images": [
-        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15140410/2021/11/10/331c7234-a4e8-4122-85d8-a65cb6cc80241636548599253-Tommy-Hilfiger-Men-Tshirts-7341636548598554-1.jpg",
-
-        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15140410/2021/11/10/6fc599b6-c2ac-4d54-8e6b-38531a7153d71636548599245-Tommy-Hilfiger-Men-Tshirts-7341636548598554-2.jpg",
-
-        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15140410/2021/11/10/4e397da7-797e-45e3-bbd8-448911084bb01636548599236-Tommy-Hilfiger-Men-Tshirts-7341636548598554-3.jpg",
-
-        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15140410/2021/11/10/3324dd0c-596e-4f8e-a998-f238e5d2c3341636548599228-Tommy-Hilfiger-Men-Tshirts-7341636548598554-4.jpg",
-
-        "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15140410/2021/11/10/8d665c7d-b5cb-49ae-9278-6bd4ee8b8cbf1636548599219-Tommy-Hilfiger-Men-Tshirts-7341636548598554-5.jpg"
-      ]
-    },
-    {
-      "id": 2,
-      "quantiy": 50,
-      "brand_name": "SASSAFRAS",
-      "name": "Black High Neck Cropped Top",
-      "price": {
-        "sp": 499,
-        "mrp": 999,
-        "discount": 50
-      },
-      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-      "customer_rating": 4.5,
-      "product_details": [
-        "Black and white embroidered woven regular top",
-        "has a mandarin collar",
-        "long sleeves and concealed zip closure"
-      ],
-      "images": [
-        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12222036/2020/10/6/d7ae3065-98d4-42d0-b244-d2b18802ff101601959656577-SASSAFRAS-Women-Black-Solid-High-Neck-Cropped-Top-4441601959-1.jpg",
-        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12222036/2020/10/6/5779fc09-4088-48a9-9e0e-2d1d6a3572da1601959656523-SASSAFRAS-Women-Black-Solid-High-Neck-Cropped-Top-4441601959-2.jpg",
-        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12222036/2020/10/6/7e3f0bf1-2517-4c35-b3e2-d806322972461601959656454-SASSAFRAS-Women-Black-Solid-High-Neck-Cropped-Top-4441601959-3.jpg",
-        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12222036/2020/10/6/4e6fc0b7-c8c6-4ede-9fb2-c1120983a44b1601959656406-SASSAFRAS-Women-Black-Solid-High-Neck-Cropped-Top-4441601959-4.jpg",
-        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12222036/2020/10/6/228e1a91-b15b-47d8-b96a-cf596ec4294c1601959656342-SASSAFRAS-Women-Black-Solid-High-Neck-Cropped-Top-4441601959-5.jpg"
-      ]
-    }
-  ],
+  "cart": [],
   "wishlist": [
     {
       "id": 1,
