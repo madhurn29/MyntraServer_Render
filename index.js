@@ -8,3 +8,4 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port);
+console.log("listening on port","14-05-23")
